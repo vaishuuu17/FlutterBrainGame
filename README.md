@@ -32,12 +32,19 @@ Clone the repository:
 git clone https://github.com/vaishuuu17/FlutterBrainGame.git
   
 
-## 🖼 Screenshots
-![Victory](https://user-images.githubusercontent.com/67127338/154220120-b7070def-1374-48ec-b565-404dd043aa65.PNG)
-![DuringGame](https://user-images.githubusercontent.com/67127338/154220128-19d479a9-bdc5-445b-99a7-d591eaaecc2e.PNG)
-![Start](https://user-images.githubusercontent.com/67127338/154220141-b4a4c7ff-ca49-4b1c-a2e9-19fa9907a44a.PNG)
+## 🖼️ Screenshots
 
+### 🏠 Start Screen
 
+![Start Screen](screenshots/start.png)
+
+### 🎮 During Game
+
+![Gameplay](screenshots/gameplay.png)
+
+### 🏆 Game Over
+
+![Game Over](screenshots/game_over.png)
 
 ## 👨‍💻 Author
 
