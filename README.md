@@ -1,26 +1,35 @@
-# Flutter Brain Game 👏👍🔥
+# Flutter Brain Game 🧠👏👍🔥
 
-This project designed using figma and built using flutter.
+This project is a brain/memory game designed using Figma and built using Flutter.
 
+The game challenges the player to remember the positions of different objects while they are swapped and then select the correct object.
 
-## Demo URL
-https://khalid-alsaleh-dev.github.io/BrainGame/#/
+## 🎮 Features
 
-  
+- Memory-based gameplay
+- Random object swapping
+- Multiple rounds and levels
+- Score tracking
+- Victory and Game Over screens
+- Animated alarm clock
+- Sound effects
+- Responsive Flutter UI
+- Windows desktop support
 
+## 💻 Requirements
 
-## 💻 Requirements 
+- Any Operating System (Windows, macOS, Linux)
+- Flutter SDK installed
+- Dart SDK
+- Any IDE with Flutter support (VS Code, Android Studio, etc.)
+- Basic knowledge of Dart and Flutter
 
-- Any Operating System (MacOS, Linux, Windows)
-- Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
-- A good knowledge of Dart and Flutter
+## 🚀 Download The Project, Install Dependencies & Run The Project
 
-## Download The Project,Install Dependencies && Run The Project 
-- Run the next command to Clone the repo to your machine `git clone https://github.com/khalid-alsaleh-dev/FlutterBrainGame.git`
-- Run the next commands to install the required dependencies
-  1. `cd <../path/to/FlutterBrainGame>`
-  2. `flutter pub get`
-- Run the next command to run the project `flutter run`
+Clone the repository:
+
+```bash
+git clone https://github.com/vaishuuu17/FlutterBrainGame.git
   
 
 ## 🖼 Screenshots
@@ -30,6 +39,8 @@ https://khalid-alsaleh-dev.github.io/BrainGame/#/
 
 
 
-## 👨‍💻 Auther
-Khalid Al-Saleh  khalidlionel.2089@gmail.com
+## 👨‍💻 Author
 
+Vaishnavi More
+GitHub: https://github.com/vaishuuu17  
+LinkedIn: https://www.linkedin.com/in/vaishnavi-more-2142a8288
