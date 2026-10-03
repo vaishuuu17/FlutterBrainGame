@@ -1,6 +1,5 @@
 # Flutter Brain Game 🧠👏👍🔥
 
-<<<<<<< HEAD
 This project is a brain/memory game designed using Figma and built using Flutter.
 
 The game challenges the player to remember the positions of different objects while they are swapped and then select the correct object.
@@ -106,4 +105,4 @@ If you like this project, consider giving the repository a ⭐ on GitHub.
 ## 📄 License
 
 This project is developed for learning and portfolio purposes.
->>>>>>> 290c213 (docs: update README and add screenshots)
+
